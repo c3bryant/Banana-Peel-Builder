@@ -1,5 +1,9 @@
 # Banana Peel Builder
 
+<p align="center">
+    <img src="bp_demo.gif" width="800">
+</p>
+
 Banana Peel Builder is an AI-powered image generator app, crafted alongside my children during the 2023-2024 holiday season. Leveraging the capabilities of OpenAI's DALL-E-3, the app brings to life images from user-provided prompts.
 
 ## Key Features
