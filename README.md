@@ -1,6 +1,6 @@
-# Bananapeel Eyeball Builder
+# Banana Peel Builder
 
-Bananapeel Eyeball Builder is an AI-powered image generator app, crafted alongside my children during the 2023-2024 holiday season. Leveraging the capabilities of OpenAI's DALL-E-3, the app brings to life images from user-provided prompts.
+Banana Peel Builder is an AI-powered image generator app, crafted alongside my children during the 2023-2024 holiday season. Leveraging the capabilities of OpenAI's DALL-E-3, the app brings to life images from user-provided prompts.
 
 ## Key Features
 - **Image Generation:** Generate images by entering prompts; DALL-E-3 takes care of the rest.
@@ -23,16 +23,15 @@ OPENAI_API_KEY=your_openai_api_key_here
 The project is organized into three main directories: `controllers`, `screens`, and `widgets` for modular development and easy maintenance.
 
 ```
-bananapeel_eyeball/
-├─ controllers/
-│  ├─ image_controller.dart
-├─ screens/
-│  ├─ home.dart
-├─ widgets/
-│  ├─ custom_input_decoration.dart
-│  ├─ error_snack.dart
-│  ├─ success_snack.dart
-├─ main.dart
+─ controllers/
+  ├─ image_controller.dart
+─ screens/
+  ├─ home.dart
+─ widgets/
+  ├─ custom_input_decoration.dart
+  ├─ error_snack.dart
+  ├─ success_snack.dart
+─ main.dart
 ```
 
 ## Fun Facts
